@@ -1,4 +1,11 @@
 public class HowdyPlanet {
+    private int i;
+
     private HowdyPlanet() {
+        i = 0;
     }
-}s
+
+    public getI() {
+        return i;
+    }
+}
